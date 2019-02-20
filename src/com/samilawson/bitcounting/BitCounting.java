@@ -1,5 +1,7 @@
+package com.samilawson.bitcounting;
+
 /**
- *  BitCounting takes an integer and returns the number of 1's in its binary form
+ *  com.samilawson.bitcounting.BitCounting takes an integer and returns the number of 1's in its binary form
  *
  * @author  Sam Lawson
  *

@@ -1,3 +1,5 @@
+package com.samilawson.bitcounting;
+
 import java.util.Scanner;
 public class BitCountingTester {
 
